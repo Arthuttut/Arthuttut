@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/DISCORD-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   
-  <a href="https://mail.google.com/mail/u/3/#sent?compose=CllgCJqTgHqDVCQCLQKQrxPsQDGhgShMDXmBTZwxwkBxpWcGLpBSvLhLxvrqGPPCPHfKZGwLBdqm" target="_blank" rel="external">
+  <a href="mailto:hekocode@gmail.com" target="_blank" rel="external">
     <img src="https://img.shields.io/badge/GMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
