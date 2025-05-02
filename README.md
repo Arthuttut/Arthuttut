@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/YOUTUBE-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   
-  <a href="https://www.instagram.com/@hekopdcre" target="_blank" rel="external">
+  <a href="https://www.instagram.com/hekopdcre/" target="_blank" rel="external">
     <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
