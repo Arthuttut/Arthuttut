@@ -25,3 +25,28 @@
   <img src="https://i.imgur.com/Ng2MCA2.png" height="60px">
   <img src="https://i.imgur.com/VNogI0v.png" height="60px">
 </div>
+<hr>
+<h1>Minhas redes sociais</h1>
+<div align="left">
+
+  <a href="https://www.youtube.com/@hekopdcre" target="_blank">
+    <img src="https://img.shields.io/badge/YOUTUBE-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  
+  <a href="https://www.instagram.com/@hekopdcre" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="https://www.twitch.tv/Arthuttut" target="_blank">
+    <img src="https://img.shields.io/badge/TWITCH-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
+  
+  <a href="https://discord.gg/https://discord.gg/NZsGpvMvEs" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  
+  <a href="mailto:hekocode@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+</div>
