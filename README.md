@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Arthur mas pode me chamar de heko👋
 
-- 📚 Full Stack  
+- 📚 Full Stack(Sei JS/TS(vou aprender TS), Lua, Python e pretendo aprender Kotlin)
 - 🌱 Atualmente estudando JavaScript, HTML e CSS  
 - 🔔 Após aprender JavaScript, HTML e CSS vou estudar NodeJS e TypeScript  
 - 📫 Contate-me no email: hekocode@gmail.com  
