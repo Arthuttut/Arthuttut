@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    <link rel="stylesheet" href="style.css">
+    <style>body {
+    background-color: black;
+}
+
+div {
+    background: black;
+    width: 300px;
+    height: 460px;
+    justify-self: center;
+    border-radius: 20px;
+}
+
+div button {
+    position: relative;
+    top: 100px;
+    height: 70px;
+    width: 70px;
+    background: rgba(41,41,43,255);
+    font-size: 43px;
+    font-family: 'VT323', monospace;
+    color: white;
+    border-radius: 40px;
+    cursor: pointer;
+    border-color: none;
+    border: none;
+}
+
+.operation {
+    background: rgba(254,158,9,255);
+}
+
+.gray {
+    background: rgba(91,91,94,255);
+}
+
+#zero {
+    height: 63px;
+    width: 145px;
+}
+
+#x {
+    font-size: 30px;
+}
+
+div#display {
+    height: 50px;
+    position: absolute;
+    top: 46px;
+    font-family: 'VT323', monospace;
+    font-size: 45px;
+    color: white;
+}</style>
+</head>
+<body>
+    <div>
+        <div id="display"></div>
+        <button class="gray" onclick="ac()">AC</button>
+        <button class="gray" onclick="erase()">D</button>
+        <button class="gray" onclick="insert('%')">%</button>
+        <button class="operation" onclick="insert('/')">รท</button>
+        <button onclick="insert(7)">7</button>
+        <button onclick="insert(8)">8</button>
+        <button onclick="insert(9)">9</button>
+        <button class="operation" onclick="insert('*')" id="x">X</button>
+        <button onclick="insert(4)">4</button>
+        <button onclick="insert(5)">5</button>
+        <button onclick="insert(6)">6</button>
+        <button class="operation" onclick="insert('-')">-</button>
+        <button onclick="insert(1)">1</button>
+        <button onclick="insert(2)">2</button>
+        <button onclick="insert(3)">3</button>
+        <button class="operation" onclick="insert('+')">+</button>
+        <button id="zero" onclick="insert(0)">0</button>
+        <button onclick="insert(',')">,</button>
+        <button class="operation" onclick="result()">=</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
