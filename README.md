@@ -1,10 +1,9 @@
 ## Olá! Eu sou o Arthur mas pode me chamar de heko👋
 
-- 📚 Full Stack(Sei JS/TS(vou aprender TS), Lua, Python, C++ e C#
-- 🌱 Atualmente estudando C++ e C# 
-- 🔔 Após aprender C++ e C# pretendo criar um app com interface gráfica
-- 📫 Contate-me no email: hekocode@gmail.com  
-- 😄 Pronomes: Ele/Dele  
+- 📚 Full Stack(JS/TS, Lua, Python, C++ e C#)
+- 🌱 Atualmente estudando backend(NodeJS)
+- 🔔 Estudando para o IFES
+- 📫 Contate-me no email: hekocode@gmail.com   
 - ⚡ Fato legal: Sou apaixonado por tecnologia e afins  
 
 <br/>
