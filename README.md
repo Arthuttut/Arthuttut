@@ -7,14 +7,6 @@
 - 😄 Pronomes: Ele/Dele  
 - ⚡ Fato legal: Sou apaixonado por tecnologia e afins  
 
-<a href="https://github.com/Arthuttut">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Arthuttut&theme=dark"/>
-</a>
-
-<a href="https://github.com/Arthuttut">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthuttut&layout=compact&langs_count=16&theme=dark"/>
-</a>
-
 <br/>
 
 <div style="display: flex; gap: 10px; align-items: center; margin-top: -10px;">
@@ -24,4 +16,6 @@
   <img src="https://i.imgur.com/MChxhOx.png" height="60px">
   <img src="https://i.imgur.com/Ng2MCA2.png" height="60px">
   <img src="https://i.imgur.com/VNogI0v.png" height="60px">
+  <img src="https://i.imgur.com/LCDfKxr.png" height="60px">
+  <img src="https://i.imgur.com/cbXKCxC.png" height="60px">
 </div>
